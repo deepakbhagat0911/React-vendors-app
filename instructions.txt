@@ -1,13 +1,11 @@
 1. npm i
-2. cd backend npm i
-3. cd frontend npm i
+2. cd frontend npm i
 
-create config.env file in backend root folder
+create config.env file in  root folder and following variable
 
 NODE_ENV=development
 PORT=3000
 DATABASE=your url
 
-and 
-in frontend create firebase.js
-add your key 
+to start the app 
+- npm start
